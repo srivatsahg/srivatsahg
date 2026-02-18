@@ -14,8 +14,8 @@
 ## 👨‍💻 About Me
 
 - 🌱 I’m currently learning broadly about Artificial Intelligence ground up.
-- 👯 I’m looking to collaborate on LLM and Finetuning Models, Capital market algorithms.
-- 🙋🏻‍♂️ Looking for help on SLM, LLM, Finetuning, SOR
+- 👯 I’m looking to collaborate on LLM, RAG, MCP and Capital market algorithms.
+- 🙋🏻‍♂️ Looking for help on SLM, RAG, MCP, LLM, Finetuning, SOR
 - 💬 Ask me about Photography, Programming, Capital Markets and not necessarily in the same order 
 - ⚡ Fun fact: I can cook vegetarian version of most of the international cuisines.
 
