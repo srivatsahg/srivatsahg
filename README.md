@@ -22,7 +22,7 @@
 
 ## 🛠 Tech Stack
 
-- **Languages:** C#, Java, Python, TypeScript, JavaScript
+- **Languages:** C#, Java, Python, TypeScript, JavaScript, PineScript (TradingView)
 - **Backend:** NET Core, Spring Boot, Node.js
 - **Frontend:** Angular, HTML, CSS
 - **Databases:** SQL, PostgreSQL, MySQL
